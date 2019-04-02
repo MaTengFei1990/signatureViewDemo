@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
+     * 这个地方需要有6.0 的文件权限；在用的时候要动态申请
      * 将bitmap 保存在文件中；
      * @param bitmap
      */
